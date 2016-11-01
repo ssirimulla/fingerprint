@@ -1,6 +1,9 @@
 ###############
 #
-#  Based on PyPlif
+#  Code modified from PyPlif
+#
+#    by Grant Schmadeke
+#       part of Suman Research Group
 #
 ###############
 
